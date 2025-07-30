@@ -16,5 +16,5 @@ A tool to compare PDF and Word (.docx) assignments for 95%+ similarity, ignoring
 - Uses TF-IDF and cosine similarity for robust results.
 
 ## About the Author
-- **Name**: [Panduka Neluwala]
-- **GitHub**: [panduka]([https://github.com/pan-nel](https://pandukaneluwala.github.io/))
+- **Name**: Panduka Neluwala
+- **GitHub**: [panduka](https://pandukaneluwala.github.io/)
