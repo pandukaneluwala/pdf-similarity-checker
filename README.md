@@ -1,7 +1,7 @@
 # PDF and DOCX Similarity Checker
 A tool to compare PDF and Word (.docx) assignments for 95%+ similarity, ignoring minor differences like student names. Built for educators to detect near-identical submissions in a privacy-conscious way.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pandukaneluwala/pdf-similarity-checker/blob/main/similarity.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pandukaneluwala/pdf-similarity-checker/blob/main/similarityg.ipynb)
 
 ## Instructions
 1. Click the "Open in Colab" button above.
